@@ -1,0 +1,2 @@
+char ssid[] = "2.4G_Phuongngoc lầu 2";
+char pass[] = "10111960";
